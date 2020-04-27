@@ -1,0 +1,15 @@
+.Wrapper{
+    border-radius: 5em;
+}
+
+.ModalHeader{
+    height: 5em;
+    border: 0;
+}
+
+.LoadText{
+    position: absolute;
+    top: 12em;
+    left: 12.8em;
+    font-weight: bold;
+}
